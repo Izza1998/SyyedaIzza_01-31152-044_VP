@@ -1,0 +1,4 @@
+C:\Users\SYYEDA IZZA NAQVI\Documents\SP_assignment\SP_assignment\bin\Debug\SP_assignment.exe
+C:\Users\SYYEDA IZZA NAQVI\Documents\SP_assignment\SP_assignment\bin\Debug\SP_assignment.pdb
+C:\Users\SYYEDA IZZA NAQVI\Documents\SP_assignment\SP_assignment\obj\x86\Debug\SP_assignment.exe
+C:\Users\SYYEDA IZZA NAQVI\Documents\SP_assignment\SP_assignment\obj\x86\Debug\SP_assignment.pdb
