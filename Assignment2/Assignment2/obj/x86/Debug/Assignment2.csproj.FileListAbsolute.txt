@@ -1,0 +1,10 @@
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Form1.resources
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Form2.resources
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Form3.resources
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Properties.Resources.resources
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\obj\x86\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\obj\x86\Debug\Assignment2.exe
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\obj\x86\Debug\Assignment2.pdb
+C:\Users\SYYEDA IZZA NAQVI\Documents\Assignment2\Assignment2\obj\x86\Debug\Assignment2.csprojResolveAssemblyReference.cache
