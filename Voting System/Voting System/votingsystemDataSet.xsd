@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="votingsystemDataSet" targetNamespace="http://tempuri.org/votingsystemDataSet.xsd" xmlns:mstns="http://tempuri.org/votingsystemDataSet.xsd" xmlns="http://tempuri.org/votingsystemDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="votingsystemConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="votingsystemConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Voting_System.Properties.Settings.GlobalReference.Default.votingsystemConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="pollTableAdapter" GeneratorDataComponentClassName="pollTableAdapter" Name="poll" UserDataComponentName="pollTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="votingsystemConnectionString (Settings)" DbObjectName="votingsystem.poll" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `Name` FROM `poll`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="votingsystemDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="votingsystemDataSet" msprop:Generator_UserDSName="votingsystemDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="poll" msprop:Generator_TableClassName="pollDataTable" msprop:Generator_TableVarName="tablepoll" msprop:Generator_TablePropName="poll" msprop:Generator_RowDeletingName="pollRowDeleting" msprop:Generator_RowChangingName="pollRowChanging" msprop:Generator_RowEvHandlerName="pollRowChangeEventHandler" msprop:Generator_RowDeletedName="pollRowDeleted" msprop:Generator_UserTableName="poll" msprop:Generator_RowChangedName="pollRowChanged" msprop:Generator_RowEvArgName="pollRowChangeEvent" msprop:Generator_RowClassName="pollRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

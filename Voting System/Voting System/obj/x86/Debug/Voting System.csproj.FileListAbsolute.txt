@@ -1,0 +1,11 @@
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting_System.Form1.resources
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting_System.Properties.Resources.resources
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting System.csproj.GenerateResource.Cache
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting_System.HomeScreen.resources
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting System.csprojResolveAssemblyReference.cache
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting_System.Vote.resources
+C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\bin\Debug\Voting System.exe.config
