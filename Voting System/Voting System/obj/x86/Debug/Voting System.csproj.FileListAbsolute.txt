@@ -9,3 +9,6 @@ C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\V
 C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting System.csprojResolveAssemblyReference.cache
 C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\obj\x86\Debug\Voting_System.Vote.resources
 C:\Users\SYYEDA IZZA NAQVI\Documents\Voting System\Voting System\bin\Debug\Voting System.exe.config
+C:\Users\SYYEDA IZZA NAQVI\Documents\GitHub\SyyedaIzza_01-31152-044_VP\Voting System\Voting System\bin\Debug\Voting System.exe.config
+C:\Users\SYYEDA IZZA NAQVI\Documents\GitHub\SyyedaIzza_01-31152-044_VP\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\SYYEDA IZZA NAQVI\Documents\GitHub\SyyedaIzza_01-31152-044_VP\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
